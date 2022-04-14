@@ -24,7 +24,7 @@ source ~/.bashrc
 
 * If you face an error here, then reopen the .bashrc file by :
 ```bash
-source ~/.bashrc
+nano ~/.bashrc
 ```
 ## Change source from :
 ```bash
