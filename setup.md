@@ -24,7 +24,7 @@ source ~/.bashrc
 
 * If you face an error here, then reopen the .bashrc file by :
 ```bash
-nano ~/.bashrc
+source ~/.bashrc
 ```
 ## Change source from :
 ```bash
@@ -37,7 +37,7 @@ source $HOME/.local/bin/virtualenvwrapper.sh
 
 ## and update shell environment by :
 ```bash
-nano ~/.bashrc
+source ~/.bashrc
 ```
 
 
